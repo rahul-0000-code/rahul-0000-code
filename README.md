@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently doing my B.Tech in CSE**
 
-- 👨‍💻 Check my portfolio [**rahulbhandari.me/#/**](http://rahulbhandari.me/#//)
+- 👨‍💻 Check my portfolio [**rahulbhandari.me/#/**](http://rahulbhandari.me/#/)
 
 - 💬 Ask me about **Data Structure & Algorithms, Full Stack Development**
 
