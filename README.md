@@ -6,7 +6,7 @@
 
 - 👨‍💻 Check my portfolio [**rahulbhandari.me/#/**](http://rahulbhandari.me/#/)
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **rahulkbhandari272002@gmail.com**
 
