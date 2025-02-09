@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently doing my B.Tech in CSE**
 
-- 👨‍💻 Check my portfolio [**rahulbhandari.me/#/**](http://rahulbhandari.me/#/)
+- 👨‍💻 Check my portfolio [here]([http://rahulbhandari.me/#/](https://rahulbhandari27.netlify.app/#/))
 
 - 💬 Ask me about **Development**
 
