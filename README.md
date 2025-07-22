@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Bhandari</h1>
 <h3 align="center">| A passionate Software Engineer | from India |</h3>
 
-- 🔭 I’m currently doing my B.Tech in CSE**
+- 🔭 B.Tech in CSE**
 
 - 👨‍💻 Check my portfolio [**here**](https://rahulbhandari27.netlify.app/#/)
 
